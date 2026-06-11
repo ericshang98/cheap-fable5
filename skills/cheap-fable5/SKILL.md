@@ -1,6 +1,6 @@
 ---
-name: cheap-claude
-description: Use when the user invokes /cheap-claude with a task, wants to save tokens/quota/usage limits, or asks to route work across cheaper models — plans the task and dispatches subtasks to subagents on difficulty-matched models (haiku/sonnet/fable).
+name: cheap-fable5
+description: Use when the user invokes /cheap-fable5 with a task, wants to save tokens/quota/usage limits, or asks to route work across cheaper models — plans the task and dispatches subtasks to subagents on difficulty-matched models (haiku/sonnet/fable).
 ---
 
 # Cheap Claude — 按难度路由模型执行任务
